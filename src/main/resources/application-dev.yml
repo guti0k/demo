@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/books_dev
+    username: root
+    password: 123456
+
+duyquyen:
+  email: nguyenduyquyen0017@gmail.com
+  phone: 0987010742
+  authors:
+    - admin
+    - user
+  exampleMap:
+    key1: Xin chao
+    key2: Toi la Duy Quyen

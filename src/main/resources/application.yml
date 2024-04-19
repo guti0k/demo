@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo
+  profiles:
+    active: dev
+demo:
+  username: Duy Quyen
+  enabled: true
